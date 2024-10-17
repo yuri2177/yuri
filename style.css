@@ -1,0 +1,27 @@
+*{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+p {
+    background-color: rgb(205, 226, 43);
+    text-align: center;
+    padding: 2%;
+    margin-right: 21%;
+    margin-left: 21%;
+}
+
+nav {
+    background-color: rgb(234, 12, 12);
+    text-align: center;
+    padding: 2%;
+    margin-right: 21%;
+    margin-left: 21%;
+}
+
+
+
+.viola-super{
+    background-color: blueviolet;
+}
